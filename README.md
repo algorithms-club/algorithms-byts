@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/algorithms-club/algoritms-byts.svg?branch=master)](https://travis-ci.org/algorithms-club/algoritms-byts)
+[![Build Status](https://travis-ci.org/algorithms-club/algorithms-byts.svg?branch=master)](https://travis-ci.org/algorithms-club/algoritms-byts)
 
 # Boilerplate algorithm library
 
